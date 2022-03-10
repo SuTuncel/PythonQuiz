@@ -1,3 +1,3 @@
 # PythonQuiz
- Little quiz game
- Question taken from Open Trivia DB
+ Little quiz game.
+ Questions taken from Open Trivia DB.
